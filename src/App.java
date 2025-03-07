@@ -44,7 +44,7 @@ public class App {
             System.out.print("   ".repeat(5 - i));
             System.out.println("*".repeat(2 * i + 1));
         }
-        System.out.println("GuayuribaDev =====>|| ");
+        System.out.println("GuayuribaDev =====(|| ");
         for (int i = 5; i > 0; i--) {
             System.out.print("   ".repeat(5 - i + 1));
             System.out.println("*".repeat(2 * i - 1));
